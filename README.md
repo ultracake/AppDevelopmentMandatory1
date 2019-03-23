@@ -9,5 +9,5 @@ Discription:
 - Save and load a list of classes/courses in our own memory on device
 - Send a mail med selected classes/courses
 
-* Extra Features:
+Extra Features:
 - Can take pictures
