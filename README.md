@@ -1,6 +1,7 @@
 # AppDevelopmentMandatory1
 
 Discription:
+
 This app is for student to create a rating formular where the can rate classes/courses.
 The Ratings can be send by mail.
 This app can save the the rating formulars in local memory.
