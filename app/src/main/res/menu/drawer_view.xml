@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/sideCreate"
+            android:title="@string/sideMenu_create" />
+        <item
+            android:id="@+id/sideFoto"
+            android:title="@string/sideMenu_foto" />
+        <item
+            android:id="@+id/sideSave"
+            android:title="@string/sideMenu_save" />
+        <item
+            android:id="@+id/sideLoad"
+            android:title="@string/sideMenu_load" />
+
+    </group>
+</menu>

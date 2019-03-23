@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MandatoryKeaRating</string>
+    <string name="string_intro">Welcome to Kea´s rating system</string>
+
+    <string name="but_RateClass">Rate a class</string>
+    <string name="but_SendEmail">Send Email</string>
+    <string name="but_sideMenu">sidebar menu</string>
+
+    <string name="nav_header">My sidebar menu is Awesome!!!</string>
+    <string name="nav_met1">some method</string>
+    <string name="nav_met2">some method</string>
+
+    <string name="snack_delete">Want to delete this?</string>
+    <string name="snack_deleteMeth">DELETE</string>
+
+
+    <string name="but_rateApp">submit rating</string>
+    <string name="string_rateApp">My App Score: </string>
+    <string name="value_rateApp"></string>
+
+    <string name="string_introRateClass">Rate class </string>
+    <string name="RateClassStr_subjectRelevans">SubjectRelevans: </string>
+    <string name="RateClassStr_teacherOverallPerformance">Teacher Overall Performance: </string>
+    <string name="RateClassStr_teacherPreparation">Teacher Preparation: </string>
+    <string name="RateClassStr_amountOfFeedback">Amount Of Feedback: </string>
+    <string name="RateClassStr_howGoodTheirEx">How Good Their Examples Are: </string>
+    <string name="RateClassStr_jobOpportunities">Job Opportunities: </string>
+    <string name="RateClassStr_ClassName">Class/Course: </string>
+    <string name="RateClassStr_teacherName">Teacher Name: </string>
+    <string name="RateClassStr_lols">Toffy says this class/course: </string>
+    <string name="RateClassStr_lolsChangeAfterRate">cool</string>
+    <string name="RateClassBut_save">Save changes</string>
+
+
+    <string name="string_subjectRelevans">Subject Relevans:</string>
+    <string name="value_subjectRelevans"></string>
+    <string name="but_subjectRelevans">submit rating</string>
+
+
+    <string name="createAct_introText">Create Class/Course</string>
+    <string name="createAct_butCreate">Create class/course</string>
+    <string name="createAct_insertName">Inset name</string>
+    <string name="createAct_insertTeacher">Insert teacher</string>
+
+    <string name="createAct_inputName"></string>
+    <string name="createAct_inputTeacher"></string>
+
+
+    <string name="sideMenu_create">Create class</string>
+    <string name="sideMenu_foto">Take a picture</string>
+    <string name="but_take_pic">Take a picture</string>
+    <string name="sideMenu_save">Save list of class</string>
+    <string name="sideMenu_load">Load list of class</string>
+
+    <string name="string_fjolleKat">Toffy the Cat is watching you</string>
+
+</resources>
