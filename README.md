@@ -11,3 +11,8 @@ Discription:
 
 Extra Features:
 - Can take pictures
+
+Functionality:
+- Buttons, Snackbar, Toast, Ratingbar, FloatingActionButton
+- ViewList
+- NavigationView
