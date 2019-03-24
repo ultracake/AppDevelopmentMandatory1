@@ -17,7 +17,7 @@ Functionality:
 Extra Features:
 - Can take pictures
 
-Components:
+Components used:
 - Buttons, Snackbar, Toast, Ratingbar, FloatingActionButton, 
 - ImageView
 - ViewList
